@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "833357101402",
+    "firebase_url": "https://whac-a-mole-game-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "whac-a-mole-game",
+    "storage_bucket": "whac-a-mole-game.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833357101402:android:5c7f432c9fa62ebea71b63",
+        "android_client_info": {
+          "package_name": "com.example.whac_a_mole"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEO2CkSOXYf-k58FyfYKv63pQdUUoIVoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833357101402:android:f2a082feeea5439aa71b63",
+        "android_client_info": {
+          "package_name": "com.example.whac_a_mole_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEO2CkSOXYf-k58FyfYKv63pQdUUoIVoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
